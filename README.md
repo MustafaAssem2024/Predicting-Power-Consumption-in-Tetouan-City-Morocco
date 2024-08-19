@@ -57,3 +57,9 @@ Personal Learnings
 
 The importance of model selection and the power of ensemble methods in improving predictive accuracy.
 Understanding that more complex models do not always yield better results, and model simplicity can sometimes offer greater interpretability and efficiency.
+
+References
+
+Breiman, L. (2001). Random Forests. Machine Learning, 45(1), 5-32. doi:10.1023/A:1010933404324
+Friedman, J., Hastie, T., & Tibshirani, R. (2001). The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Springer.
+Geron, A. (2019). Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow. 2nd Edition. O'Reilly Media
